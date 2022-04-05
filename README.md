@@ -1,3 +1,4 @@
+![0_NHgarBuqh9-a-3LV](https://user-images.githubusercontent.com/55916366/161840775-10861e36-f9d6-452a-9e32-3dfa2d07ed5d.png)
 K-Nearest Neighbours (KNN) is definatley one of my favourite Algorithms in Machine Learning because it is just so intuitive and simple to understand and yet an essential algorithm to study.
 
 So let’s start with the implementation of KNN. It really involves just 3 simple steps:
