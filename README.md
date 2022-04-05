@@ -2,9 +2,10 @@
 K-Nearest Neighbours (KNN) is definatley one of my favourite Algorithms in Machine Learning because it is just so intuitive and simple to understand and yet an essential algorithm to study.
 
 So let’s start with the implementation of KNN. It really involves just 3 simple steps:
-  1.Calculate the distance(Euclidean, Manhattan, etc) between a test data point and every training data point. This is to see who is closer and who is far by how much.
-  2.Sort the distances and pick K nearest distances(first K entries) from it. Those will be K closest neighbors to your given test data point.
-  3.Get the labels of the selected K neighbors. The most common label(label with a majority vote) will be the predicted label for our test data point.
+
+    1.Calculate the distance(Euclidean, Manhattan, etc) between a test data point and every training data point. This is to see who is closer and who is far by how much.
+    2.Sort the distances and pick K nearest distances(first K entries) from it. Those will be K closest neighbors to your given test data point.
+    3.Get the labels of the selected K neighbors. The most common label(label with a majority vote) will be the predicted label for our test data point.
 
 Repeat everything above for all the test data points in your test set.
 
