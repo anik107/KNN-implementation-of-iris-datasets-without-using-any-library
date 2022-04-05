@@ -8,6 +8,8 @@ So let’s start with the implementation of KNN. It really involves just 3 simpl
 
 Repeat everything above for all the test data points in your test set.
 
+![0_Rh1l2Sev-whPTZkQ](https://user-images.githubusercontent.com/55916366/161841118-5516d0c1-c070-495d-8120-21d1b98defdb.png)
+
 We will define a class ‘KNN’ inside which we will define every essential function that will make our algorithm work. We will be having the following methods inside our class.
   1. fit: As discussed earlier, it’ll just keep the data with itself, since KNN does not perform any explicit training process.
   2. Distance: We will calculate Euclidean distance here.
